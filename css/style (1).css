@@ -49,17 +49,18 @@ body{
 }
 
 #title-one {
-  background-color: #B4F311;
+  background-color: #D59898;
 } 
 
 #title-two{
-  background-color: #F34B34;
+  background-color: #C14543;
 }
 
 #title-three{
-  background-color: #E123F1;
+  background-color: #E5D198;
 }
 
+/* Simple Responsive Framework. */
 /*------ Desktop ------*/
 @media (min-width: 992px){
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
